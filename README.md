@@ -1,4 +1,4 @@
-# Stat 499 Indepdent Study 
+# Stat 499 Indepedent Study 
 
 ## Description 
 This project involves analyzing a mental health dataset sourced from Kaggle using Python. The aim is to explore various statistical analyses to better understand the data and the trends within it.
@@ -15,7 +15,7 @@ This project involves analyzing a mental health dataset sourced from Kaggle usin
 
 ## Team Members
 - **Hannah Burington**
-- **Ashley Medrano**\
+- **Ashley Medrano**
 
 ## Version History 
 
